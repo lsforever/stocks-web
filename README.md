@@ -1,6 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Check Live Preview here
+
+<a href="https://stocks-web-seven.vercel.app/" target="_blank"><img src="https://w7.pngwing.com/pngs/286/384/png-transparent-live-streaming-youtube-button-online-internet-social-media-media-icon.png" alt="Live Preview" style="width: 120px; height: 44px;" width="200" height="44" /></a></h1>
+
+<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website Up"/>
+
 ## Getting Started
+
+Clone repo and install npm packages:
+```bash
+git clone https://github.com/lsforever/stocks-web.git
+# then
+npm install
+# or
+pnpm install
+```
 
 First, run the development server:
 
